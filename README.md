@@ -36,12 +36,6 @@ The Ecommerce Sales Dashboard helps visualize:
 
 ---
 
-## 📁 File
-
-- `Ecommerce Sales Dashboard.pbix` – Main dashboard file (Power BI Desktop)
-
----
-
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/ebcefbd8-f59f-45c6-8bc4-2e4d5e16eedc)
