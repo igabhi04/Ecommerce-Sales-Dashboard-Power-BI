@@ -58,7 +58,7 @@ Perfect for:
 **Abhishek Adhude**  
 Final Year B.Tech (Computer Science & Engineering)  
 Aspiring Data Analyst | Power BI Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com) *(add your actual link)*
+[LinkedIn Profile](https://www.linkedin.com/in/abhishekadhude/) **
 
 ---
 
